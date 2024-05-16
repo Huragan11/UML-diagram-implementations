@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2162b9aa-e39c-4a20-954e-efe577039b33" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fmC5HvQjVj9G0YVX12sSZn65il" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.BasicAssociationTest.addAndRemoveFromGarage.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasicAssociationTest.addAndRemoveFromPart.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasicAssociationTest.addPartTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BasicAssociationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CompositionTest.createAccessoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CompositionTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CompositionTest.removeAccessoryFromCarTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CompositionTest.switchAccessoryOwner.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.QualifiedTest.createTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.QualifiedTest.createTest2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.QualifiedTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.QualifiedTest.removeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.QualifiedTest.removeTest2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WithAttributeTest.createSuccessfully.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WithAttributeTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/huber/Desktop/MP2_basic_tests/MP2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.WithAttributeTest.createSuccessfully">
+    <configuration name="CompositionTest.createAccessoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.CompositionTest" />
+      <option name="METHOD_NAME" value="createAccessoryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QualifiedTest.removeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.QualifiedTest" />
+      <option name="METHOD_NAME" value="removeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QualifiedTest.removeTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.QualifiedTest" />
+      <option name="METHOD_NAME" value="removeTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithAttributeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.WithAttributeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithAttributeTest.createSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MP2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.WithAttributeTest" />
+      <option name="METHOD_NAME" value="createSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WithAttributeTest.createSuccessfully" />
+        <item itemvalue="JUnit.CompositionTest.createAccessoryTest" />
+        <item itemvalue="JUnit.WithAttributeTest" />
+        <item itemvalue="JUnit.QualifiedTest.removeTest2" />
+        <item itemvalue="JUnit.QualifiedTest.removeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2162b9aa-e39c-4a20-954e-efe577039b33" name="Changes" comment="" />
+      <created>1714396684753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714396684753</updated>
+      <workItem from="1714396685801" duration="630000" />
+      <workItem from="1714488295502" duration="3261000" />
+      <workItem from="1714553863724" duration="18683000" />
+      <workItem from="1714844729763" duration="131000" />
+      <workItem from="1715179189632" duration="18000" />
+      <workItem from="1715179380073" duration="35000" />
+      <workItem from="1715180460237" duration="615000" />
+      <workItem from="1715181393410" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
