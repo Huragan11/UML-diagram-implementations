@@ -4,3 +4,4 @@ Implemantation of given UML diagrams while learning JUnit tests
 
 MP1 focuses on validating class fields and handling all the exceptions.
 MP2 focuses on relations between classes with different kind of associations
+MP3 focuses on implemantation of class inheritance known in UML such as Multi-aspect, dynamic, overlapping and multi-inheritance 
