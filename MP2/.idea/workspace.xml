@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2162b9aa-e39c-4a20-954e-efe577039b33" name="Changes" comment="" />
+    <list default="true" id="2162b9aa-e39c-4a20-954e-efe577039b33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MP1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -25,35 +31,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.BasicAssociationTest.addAndRemoveFromGarage.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BasicAssociationTest.addAndRemoveFromPart.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BasicAssociationTest.addPartTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BasicAssociationTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompositionTest.createAccessoryTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompositionTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompositionTest.removeAccessoryFromCarTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CompositionTest.switchAccessoryOwner.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QualifiedTest.createTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QualifiedTest.createTest2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QualifiedTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QualifiedTest.removeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QualifiedTest.removeTest2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WithAttributeTest.createSuccessfully.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WithAttributeTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/huber/Desktop/MP2_basic_tests/MP2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BasicAssociationTest.addAndRemoveFromGarage.executor": "Run",
+    "JUnit.BasicAssociationTest.addAndRemoveFromPart.executor": "Run",
+    "JUnit.BasicAssociationTest.addPartTest.executor": "Run",
+    "JUnit.BasicAssociationTest.executor": "Run",
+    "JUnit.CompositionTest.createAccessoryTest.executor": "Run",
+    "JUnit.CompositionTest.executor": "Run",
+    "JUnit.CompositionTest.removeAccessoryFromCarTest.executor": "Run",
+    "JUnit.CompositionTest.switchAccessoryOwner.executor": "Run",
+    "JUnit.QualifiedTest.createTest.executor": "Run",
+    "JUnit.QualifiedTest.createTest2.executor": "Run",
+    "JUnit.QualifiedTest.executor": "Run",
+    "JUnit.QualifiedTest.removeTest.executor": "Run",
+    "JUnit.QualifiedTest.removeTest2.executor": "Run",
+    "JUnit.WithAttributeTest.createSuccessfully.executor": "Run",
+    "JUnit.WithAttributeTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/huber/IdeaProjects/MP4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.WithAttributeTest.createSuccessfully">
     <configuration name="CompositionTest.createAccessoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MP2" />
@@ -147,7 +155,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -167,6 +176,10 @@
       <workItem from="1715179380073" duration="35000" />
       <workItem from="1715180460237" duration="615000" />
       <workItem from="1715181393410" duration="8000" />
+      <workItem from="1715856298020" duration="740000" />
+      <workItem from="1715868710503" duration="50000" />
+      <workItem from="1715868831521" duration="568000" />
+      <workItem from="1715953635969" duration="636000" />
     </task>
     <servers />
   </component>
